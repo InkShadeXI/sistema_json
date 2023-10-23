@@ -1,0 +1,7 @@
+{
+    "usuarios": [
+        {"emailorigen":"shadeprofesional@gmail.com", "emaildestino":"cliente1@gmail.com", "nomolestar":0},
+        {"emailorigen":"shadeprofesional@gmail.com", "emaildestino":"cliente2@gmail.com", "nomolestar":1},
+        {"emailorigen":"shadeprofesional@gmail.com", "emaildestino":"cliente3@gmail.com", "nomolestar":0}
+    ]
+}

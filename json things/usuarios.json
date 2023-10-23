@@ -1,0 +1,7 @@
+{
+	"usuarios": [
+		{"nombre":"Marisa Álvarez", "clave":"1g7Mh5a","rol":0},
+		{"nombre":"Juan Gil", "clave":"8Ghnd4","rol":0},
+		{"nombre":"Ana López", "clave":"25rk!lp","rol":1}
+	]
+}
